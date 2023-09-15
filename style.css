@@ -1,0 +1,15 @@
+.toggle {
+    display: none;
+}
+
+.toggle-button {
+    font-size: 40px;
+}
+
+.toggle-button-on {
+    fill: green;
+}
+
+.toggle-button-off {
+    fill: gray;
+}
